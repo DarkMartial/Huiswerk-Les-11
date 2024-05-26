@@ -1,0 +1,150 @@
+
+body {
+    margin: 0;
+}
+
+.table-wrapper {
+    display: grid;
+    width: 100%;
+}
+
+.header {
+    margin-bottom: 30px;
+  background-color: red;
+  width: 100%;
+  height: 200px;
+  
+}
+
+.row {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  display: block;
+  }
+
+.cell {
+  float: left;
+  min-height: 100px;
+  width: 24%;
+  border: 1px solid black;
+  min-width: 100px;
+  display: block;
+  }
+
+img {
+  width: 300px;
+  height: 96px;
+  padding-left: 85px;
+}
+
+#a1 {
+  background-color: red;
+}
+
+#a2 {
+  background-color: rgb(185, 136, 136);
+}
+
+#a3 {
+  background-color: rgb(97, 47, 47);
+}
+
+#a4 {
+  background-color: rgb(104, 100, 100);
+}
+
+#b1 {
+  background-color: rgb(233, 238, 85);
+}
+
+#b2 {
+  background-color: yellow;
+}
+
+#b3 {
+  background-color: rgb(197, 197, 140);
+}
+
+#b4 {
+  background-color: rgb(94, 94, 59);
+}
+
+#c1 {
+  background-color: blue;
+}
+
+#c2 {
+  background-color: rgb(102, 102, 197);
+}
+
+#c3 {
+  background-color: rgb(38, 38, 161);
+}
+
+#c4 {
+  background-color: rgb(64, 64, 136);
+}
+
+#d1 {
+  background-color: green;
+}
+
+#d2 {
+  background-color: rgb(76, 168, 76);
+}
+
+#d3 {
+  background-color: rgb(18, 101, 18);
+}
+
+#d4 {
+  background-color: rgb(23, 72, 23);
+}
+
+.Fiets {
+  background-color: aqua;
+  font-size: 40px;
+}
+
+.Auto {
+  background-color: red;
+  font-size: 40px;
+}
+
+.Brommer {
+  background-color: white;
+  font-size: 40px;
+}
+
+.Scooter {
+  background-color: rgb(120, 153, 120);
+  font-size: 40px;
+}
+
+.Appel {
+  background-color: rgb(159, 112, 112);
+  font-size: 40px;
+}
+
+.Banaan {
+  background-color: rgb(140, 183, 169);
+  font-size: 40px;
+}
+
+.Kiwi {
+  background-color: lightblue;
+  font-size: 40px;
+}
+
+.Aubergine {
+  background-color: blueviolet;
+  font-size: 40px;
+}
+
+.footer {
+    margin-top:55px ;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(102, 157, 157);
+   }
